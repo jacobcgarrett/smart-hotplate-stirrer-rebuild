@@ -68,3 +68,9 @@ All with minimal extra labor or hardware cost.
 
 MIT License.  
 **Use at your own risk.** Safety measures have been implemented, but I can't guarantee compatibility with other builds or modifications.
+
+---
+
+### 🙏 Acknowledgments
+
+Developed with ongoing support and collaboration from [ChatGPT](https://openai.com/chatgpt) and [Grok](grok.com) for design advice, code structure, and embedded systems troubleshooting.
